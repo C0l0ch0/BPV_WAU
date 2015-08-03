@@ -1,0 +1,48 @@
+[2015-07-10 11:01:25] Inicio de servicio de actualizacion de BD
+[2015-07-10 11:01:25]Parametrizacion de rutas y valores....
+
+[2015-07-10 11:01:25]Librerias a cargar: 
+[2015-07-10 11:01:25]/var/www/Billing/core/lib/MySQL.php 
+[2015-07-10 11:01:25]/var/www/Billing/core/lib/BDCobros.php 
+[2015-07-10 11:01:25]Parametrizacion de rutas y valores....
+
+[2015-07-10 11:01:25]Requerimiento de librerias....
+[2015-07-10 11:01:25]Cargando procesos...........
+[2015-07-10 11:01:25] Servicios a ejecutar: 7
+[2015-07-10 11:01:25]Iniciando Procesos..........
+[2015-07-10 11:01:25] **************************Realizando llamado a GetCharges para SAMEX**************************
+[2015-07-10 11:01:25] Cobros generados: 262323
+[2015-07-10 11:01:25] Enviando a guardar informacion...........
+[2015-07-10 11:01:25] insert into billing.samex values(null,1,date(date_add(now(), interval -6 hour)),hour(date_add(now(), interval -6 hour)),262323);
+[2015-07-10 11:01:25] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:25] **************************Realizando llamado a GetCharges para SAPER**************************
+[2015-07-10 11:01:26] Cobros generados: 57629
+[2015-07-10 11:01:26] Enviando a guardar informacion...........
+[2015-07-10 11:01:26] insert into billing.saper values(null,2,date(date_add(now(), interval -6 hour)),hour(date_add(now(), interval -6 hour)),57629);
+[2015-07-10 11:01:26] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:26] **************************Realizando llamado a GetCharges para SAECU**************************
+[2015-07-10 11:01:27] Cobros generados: 49748
+[2015-07-10 11:01:27] Enviando a guardar informacion...........
+[2015-07-10 11:01:27] insert into billing.saecu values(null,3,date(date_add(now(), interval -6 hour)),hour(date_add(now(), interval -6 hour)),49748);
+[2015-07-10 11:01:27] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:27] **************************Realizando llamado a GetCharges para SACA**************************
+[2015-07-10 11:01:27] Cobros generados: 79594
+[2015-07-10 11:01:27] Enviando a guardar informacion...........
+[2015-07-10 11:01:28] insert into billing.saca values(null,5,date(date_add(now(), interval -6 hour)),hour(date_add(now(), interval -6 hour)),79594);
+[2015-07-10 11:01:28] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:28] **************************Realizando llamado a GetCharges para SANIC**************************
+[2015-07-10 11:01:28] Cobros generados: 814
+[2015-07-10 11:01:28] Enviando a guardar informacion...........
+[2015-07-10 11:01:28] insert into billing.sanic values(null,4,date(date_add(now(), interval -6 hour)),hour(date_add(now(), interval -6 hour)),814);
+[2015-07-10 11:01:28] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:28] **************************Realizando llamado a GetCharges para SASAL**************************
+[2015-07-10 11:01:29] Cobros generados: 775
+[2015-07-10 11:01:29] Enviando a guardar informacion...........
+[2015-07-10 11:01:29] insert into billing.sasal values(null,7,date(date_add(now(), interval -6 hour)),hour(date_add(now(), interval -6 hour)),775);
+[2015-07-10 11:01:29] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:29] **************************Realizando llamado a GetCharges para SAPAN**************************
+[2015-07-10 11:01:30] Cobros generados: 0
+[2015-07-10 11:01:30] Enviando a guardar informacion...........
+[2015-07-10 11:01:30] insert into billing.sapan values(null,6,date(date_add(now(), interval -6 hour)),hour(date_add(now(), interval -6 hour)),0);
+[2015-07-10 11:01:30] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:30]Procesos Finalizado..........

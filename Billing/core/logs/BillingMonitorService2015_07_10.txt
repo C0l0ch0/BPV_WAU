@@ -1,0 +1,55 @@
+[2015-07-10 11:01:08] Inicio de servicio de actualizacion de BD
+[2015-07-10 11:01:08]Parametrizacion de rutas y valores....
+
+[2015-07-10 11:01:08]Librerias a cargar: 
+[2015-07-10 11:01:08]/var/www/Billing/core/lib/MySQL.php 
+[2015-07-10 11:01:08]/var/www/Billing/core/lib/BDCobros.php 
+[2015-07-10 11:01:08]Parametrizacion de rutas y valores....
+
+[2015-07-10 11:01:08]Requerimiento de librerias....
+[2015-07-10 11:01:09]Cargando procesos...........
+[2015-07-10 11:01:09] Servicios a ejecutar: 7
+[2015-07-10 11:01:09]Iniciando Procesos..........
+[2015-07-10 11:01:09] **************************Realizando llamado a GetCharges para SAMEX**************************
+[2015-07-10 11:01:09] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(1,2);: 375753.0000
+[2015-07-10 11:01:09] Cobros generados: 262323
+[2015-07-10 11:01:09] Enviando a guardar informacion...........
+[2015-07-10 11:01:09] call SaveMonitorCharges(1,'SAMEX',262323,375753.0000,2);
+[2015-07-10 11:01:09] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:09] **************************Realizando llamado a GetCharges para SAPER**************************
+[2015-07-10 11:01:10] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(2,2);: 197617.1429
+[2015-07-10 11:01:10] Cobros generados: 57629
+[2015-07-10 11:01:10] Enviando a guardar informacion...........
+[2015-07-10 11:01:10] call SaveMonitorCharges(2,'SAPER',57629,197617.1429,2);
+[2015-07-10 11:01:10] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:10] **************************Realizando llamado a GetCharges para SAECU**************************
+[2015-07-10 11:01:11] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(3,2);: 198902.2857
+[2015-07-10 11:01:11] Cobros generados: 49748
+[2015-07-10 11:01:11] Enviando a guardar informacion...........
+[2015-07-10 11:01:11] call SaveMonitorCharges(3,'SAECU',49748,198902.2857,2);
+[2015-07-10 11:01:11] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:11] **************************Realizando llamado a GetCharges para SACA**************************
+[2015-07-10 11:01:11] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(5,2);: 113665.5714
+[2015-07-10 11:01:11] Cobros generados: 79594
+[2015-07-10 11:01:11] Enviando a guardar informacion...........
+[2015-07-10 11:01:12] call SaveMonitorCharges(5,'SACA',79594,113665.5714,2);
+[2015-07-10 11:01:12] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:12] **************************Realizando llamado a GetCharges para SANIC**************************
+[2015-07-10 11:01:12] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(4,2);: 5193.0000
+[2015-07-10 11:01:12] Cobros generados: 814
+[2015-07-10 11:01:12] Enviando a guardar informacion...........
+[2015-07-10 11:01:13] call SaveMonitorCharges(4,'SANIC',814,5193.0000,2);
+[2015-07-10 11:01:13] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:13] **************************Realizando llamado a GetCharges para SASAL**************************
+[2015-07-10 11:01:14] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(7,2);: 2512.4286
+[2015-07-10 11:01:14] Cobros generados: 775
+[2015-07-10 11:01:14] Enviando a guardar informacion...........
+[2015-07-10 11:01:14] call SaveMonitorCharges(7,'SASAL',775,2512.4286,2);
+[2015-07-10 11:01:14] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:14] **************************Realizando llamado a GetCharges para SAPAN**************************
+[2015-07-10 11:01:15] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(6,2);: 0.0000
+[2015-07-10 11:01:15] Cobros generados: 0
+[2015-07-10 11:01:15] Enviando a guardar informacion...........
+[2015-07-10 11:01:15] call SaveMonitorCharges(6,'SAPAN',0,0.0000,2);
+[2015-07-10 11:01:15] **************************finalizacion de generacion de cobro**************************
+[2015-07-10 11:01:15]Procesos Finalizado..........

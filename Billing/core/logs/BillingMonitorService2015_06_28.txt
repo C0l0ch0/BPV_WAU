@@ -1,0 +1,228 @@
+[2015-06-28 00:07:44] Inicio de servicio de actualizacion de BD
+[2015-06-28 00:07:44]Parametrizacion de rutas y valores....
+
+[2015-06-28 00:07:44]Librerias a cargar: 
+[2015-06-28 00:07:44]/var/www/Billing/core/lib/MySQL.php 
+[2015-06-28 00:07:44]/var/www/Billing/core/lib/BDCobros.php 
+[2015-06-28 00:07:44]Parametrizacion de rutas y valores....
+
+[2015-06-28 00:07:44]Requerimiento de librerias....
+[2015-06-28 00:07:44]Cargando procesos...........
+[2015-06-28 00:07:44] Servicios a ejecutar: 7
+[2015-06-28 00:07:44]Iniciando Procesos..........
+[2015-06-28 00:07:44] **************************Realizando llamado a GetCharges para SAMEX**************************
+[2015-06-28 00:09:51] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 00:09:51] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:09:51] **************************Realizando llamado a GetCharges para SAPER**************************
+[2015-06-28 00:11:59] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 00:11:59] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:11:59] **************************Realizando llamado a GetCharges para SAECU**************************
+[2015-06-28 00:29:09] Inicio de servicio de actualizacion de BD
+[2015-06-28 00:29:09]Parametrizacion de rutas y valores....
+
+[2015-06-28 00:29:09]Librerias a cargar: 
+[2015-06-28 00:29:09]/var/www/Billing/core/lib/MySQL.php 
+[2015-06-28 00:29:09]/var/www/Billing/core/lib/BDCobros.php 
+[2015-06-28 00:29:09]Parametrizacion de rutas y valores....
+
+[2015-06-28 00:29:09]Requerimiento de librerias....
+[2015-06-28 00:29:09]Cargando procesos...........
+[2015-06-28 00:29:09] Servicios a ejecutar: 7
+[2015-06-28 00:29:09]Iniciando Procesos..........
+[2015-06-28 00:29:09] **************************Realizando llamado a GetCharges para SAMEX**************************
+[2015-06-28 00:31:17] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 00:31:17] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:31:17] **************************Realizando llamado a GetCharges para SAPER**************************
+[2015-06-28 00:33:24] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 00:33:24] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:33:24] **************************Realizando llamado a GetCharges para SAECU**************************
+[2015-06-28 00:33:25] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(3,2);: 215644.7143
+[2015-06-28 00:33:25] Cobros generados: 219444
+[2015-06-28 00:33:25] Enviando a guardar informacion...........
+[2015-06-28 00:33:25] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:33:25] **************************Realizando llamado a GetCharges para SACA**************************
+[2015-06-28 00:33:27] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(5,2);: 121802.4286
+[2015-06-28 00:33:27] Cobros generados: 94481
+[2015-06-28 00:33:27] Enviando a guardar informacion...........
+[2015-06-28 00:33:27] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:33:27] **************************Realizando llamado a GetCharges para SANIC**************************
+[2015-06-28 00:33:29] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(4,2);: 6789.7143
+[2015-06-28 00:33:29] Cobros generados: 7577
+[2015-06-28 00:33:29] Enviando a guardar informacion...........
+[2015-06-28 00:33:29] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:33:29] **************************Realizando llamado a GetCharges para SASAL**************************
+[2015-06-28 00:33:31] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(7,2);: 2480.4286
+[2015-06-28 00:33:31] Cobros generados: 0
+[2015-06-28 00:33:31] Enviando a guardar informacion...........
+[2015-06-28 00:33:31] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:33:31] **************************Realizando llamado a GetCharges para SAPAN**************************
+[2015-06-28 00:33:32] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(6,2);: 0.0000
+[2015-06-28 00:33:32] Cobros generados: 0
+[2015-06-28 00:33:32] Enviando a guardar informacion...........
+[2015-06-28 00:33:32] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:33:32]Procesos Finalizado..........
+[2015-06-28 00:45:22] Inicio de servicio de actualizacion de BD
+[2015-06-28 00:45:22]Parametrizacion de rutas y valores....
+
+[2015-06-28 00:45:22]Librerias a cargar: 
+[2015-06-28 00:45:22]/var/www/Billing/core/lib/MySQL.php 
+[2015-06-28 00:45:22]/var/www/Billing/core/lib/BDCobros.php 
+[2015-06-28 00:45:22]Parametrizacion de rutas y valores....
+
+[2015-06-28 00:45:22]Requerimiento de librerias....
+[2015-06-28 00:45:23]Cargando procesos...........
+[2015-06-28 00:45:23] Servicios a ejecutar: 7
+[2015-06-28 00:45:23]Iniciando Procesos..........
+[2015-06-28 00:45:23] **************************Realizando llamado a GetCharges para SAMEX**************************
+[2015-06-28 00:47:30] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 00:47:30] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:47:30] **************************Realizando llamado a GetCharges para SAPER**************************
+[2015-06-28 00:49:38] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 00:49:38] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:49:38] **************************Realizando llamado a GetCharges para SAECU**************************
+[2015-06-28 00:49:40] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(3,2);: 215644.7143
+[2015-06-28 00:49:40] Cobros generados: 222815
+[2015-06-28 00:49:40] Enviando a guardar informacion...........
+[2015-06-28 00:49:40] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:49:40] **************************Realizando llamado a GetCharges para SACA**************************
+[2015-06-28 00:49:42] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(5,2);: 121802.4286
+[2015-06-28 00:49:42] Cobros generados: 94484
+[2015-06-28 00:49:42] Enviando a guardar informacion...........
+[2015-06-28 00:49:42] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:49:42] **************************Realizando llamado a GetCharges para SANIC**************************
+[2015-06-28 00:49:42] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(4,2);: 6789.7143
+[2015-06-28 00:49:42] Cobros generados: 7577
+[2015-06-28 00:49:42] Enviando a guardar informacion...........
+[2015-06-28 00:49:42] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:49:42] **************************Realizando llamado a GetCharges para SASAL**************************
+[2015-06-28 00:49:44] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(7,2);: 2480.4286
+[2015-06-28 00:49:44] Cobros generados: 0
+[2015-06-28 00:49:44] Enviando a guardar informacion...........
+[2015-06-28 00:49:44] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:49:44] **************************Realizando llamado a GetCharges para SAPAN**************************
+[2015-06-28 00:49:45] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(6,2);: 0.0000
+[2015-06-28 00:49:45] Cobros generados: 0
+[2015-06-28 00:49:45] Enviando a guardar informacion...........
+[2015-06-28 00:49:45] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:49:45]Procesos Finalizado..........
+[2015-06-28 00:51:33] Inicio de servicio de actualizacion de BD
+[2015-06-28 00:51:33]Parametrizacion de rutas y valores....
+
+[2015-06-28 00:51:33]Librerias a cargar: 
+[2015-06-28 00:51:33]/var/www/Billing/core/lib/MySQL.php 
+[2015-06-28 00:51:33]/var/www/Billing/core/lib/BDCobros.php 
+[2015-06-28 00:51:33]Parametrizacion de rutas y valores....
+
+[2015-06-28 00:51:33]Requerimiento de librerias....
+[2015-06-28 00:51:34]Cargando procesos...........
+[2015-06-28 00:51:34] Servicios a ejecutar: 7
+[2015-06-28 00:51:34]Iniciando Procesos..........
+[2015-06-28 00:51:34] **************************Realizando llamado a GetCharges para SAMEX**************************
+[2015-06-28 00:53:42] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 00:53:42] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:53:42] **************************Realizando llamado a GetCharges para SAPER**************************
+[2015-06-28 00:55:49] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 00:55:49] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:55:49] **************************Realizando llamado a GetCharges para SAECU**************************
+[2015-06-28 00:55:54] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(3,2);: 215644.7143
+[2015-06-28 00:55:54] Cobros generados: 222815
+[2015-06-28 00:55:54] Enviando a guardar informacion...........
+[2015-06-28 00:55:54] call SaveMonitorCharges(3,'SAECU',222815,2);
+[2015-06-28 00:55:54] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:55:54] **************************Realizando llamado a GetCharges para SACA**************************
+[2015-06-28 00:55:56] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(5,2);: 121802.4286
+[2015-06-28 00:55:56] Cobros generados: 94487
+[2015-06-28 00:55:56] Enviando a guardar informacion...........
+[2015-06-28 00:55:56] call SaveMonitorCharges(5,'SACA',94487,2);
+[2015-06-28 00:55:56] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:55:56] **************************Realizando llamado a GetCharges para SANIC**************************
+[2015-06-28 00:55:57] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(4,2);: 6789.7143
+[2015-06-28 00:55:57] Cobros generados: 7577
+[2015-06-28 00:55:57] Enviando a guardar informacion...........
+[2015-06-28 00:55:57] call SaveMonitorCharges(4,'SANIC',7577,2);
+[2015-06-28 00:55:57] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:55:57] **************************Realizando llamado a GetCharges para SASAL**************************
+[2015-06-28 00:55:59] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(7,2);: 2480.4286
+[2015-06-28 00:55:59] Cobros generados: 0
+[2015-06-28 00:55:59] Enviando a guardar informacion...........
+[2015-06-28 00:56:00] call SaveMonitorCharges(7,'SASAL',0,2);
+[2015-06-28 00:56:00] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:56:00] **************************Realizando llamado a GetCharges para SAPAN**************************
+[2015-06-28 00:56:00] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(6,2);: 0.0000
+[2015-06-28 00:56:00] Cobros generados: 0
+[2015-06-28 00:56:00] Enviando a guardar informacion...........
+[2015-06-28 00:56:00] call SaveMonitorCharges(6,'SAPAN',0,2);
+[2015-06-28 00:56:00] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:56:00]Procesos Finalizado..........
+[2015-06-28 00:57:48] Inicio de servicio de actualizacion de BD
+[2015-06-28 00:57:48]Parametrizacion de rutas y valores....
+
+[2015-06-28 00:57:48]Librerias a cargar: 
+[2015-06-28 00:57:48]/var/www/Billing/core/lib/MySQL.php 
+[2015-06-28 00:57:48]/var/www/Billing/core/lib/BDCobros.php 
+[2015-06-28 00:57:48]Parametrizacion de rutas y valores....
+
+[2015-06-28 00:57:48]Requerimiento de librerias....
+[2015-06-28 00:57:48]Cargando procesos...........
+[2015-06-28 00:57:48] Servicios a ejecutar: 7
+[2015-06-28 00:57:48]Iniciando Procesos..........
+[2015-06-28 00:57:48] **************************Realizando llamado a GetCharges para SAMEX**************************
+[2015-06-28 00:59:56] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 00:59:56] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 00:59:56] **************************Realizando llamado a GetCharges para SAPER**************************
+[2015-06-28 01:02:03] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 01:02:03] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 01:02:03] **************************Realizando llamado a GetCharges para SAECU**************************
+[2015-06-28 01:02:04] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(3,2);: 215644.7143
+[2015-06-28 01:02:04] Cobros generados: 8300
+[2015-06-28 01:02:04] Enviando a guardar informacion...........
+[2015-06-28 01:02:04] call SaveMonitorCharges(3,'SAECU',8300,2);
+[2015-06-28 01:07:49] Inicio de servicio de actualizacion de BD
+[2015-06-28 01:07:49]Parametrizacion de rutas y valores....
+
+[2015-06-28 01:07:49]Librerias a cargar: 
+[2015-06-28 01:07:49]/var/www/Billing/core/lib/MySQL.php 
+[2015-06-28 01:07:49]/var/www/Billing/core/lib/BDCobros.php 
+[2015-06-28 01:07:49]Parametrizacion de rutas y valores....
+
+[2015-06-28 01:07:49]Requerimiento de librerias....
+[2015-06-28 01:07:49]Cargando procesos...........
+[2015-06-28 01:07:49] Servicios a ejecutar: 7
+[2015-06-28 01:07:49]Iniciando Procesos..........
+[2015-06-28 01:07:49] **************************Realizando llamado a GetCharges para SAMEX**************************
+[2015-06-28 01:09:56] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 01:09:56] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 01:09:56] **************************Realizando llamado a GetCharges para SAPER**************************
+[2015-06-28 01:12:04] Connect failed: Can't connect to MySQL server on '192.168.2.55' (110)
+[2015-06-28 01:12:04] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 01:12:04] **************************Realizando llamado a GetCharges para SAECU**************************
+[2015-06-28 01:12:06] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(3,2);: 185806.8571
+[2015-06-28 01:12:06] Cobros generados: 8300
+[2015-06-28 01:12:06] Enviando a guardar informacion...........
+[2015-06-28 01:12:06] call SaveMonitorCharges(3,'SAECU',8300,185806.8571,2);
+[2015-06-28 01:12:06] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 01:12:06] **************************Realizando llamado a GetCharges para SACA**************************
+[2015-06-28 01:12:08] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(5,2);: 108952.7143
+[2015-06-28 01:12:08] Cobros generados: 4
+[2015-06-28 01:12:08] Enviando a guardar informacion...........
+[2015-06-28 01:12:08] call SaveMonitorCharges(5,'SACA',4,108952.7143,2);
+[2015-06-28 01:12:08] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 01:12:08] **************************Realizando llamado a GetCharges para SANIC**************************
+[2015-06-28 01:12:08] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(4,2);: 6057.8571
+[2015-06-28 01:12:08] Cobros generados: 0
+[2015-06-28 01:12:08] Enviando a guardar informacion...........
+[2015-06-28 01:12:09] call SaveMonitorCharges(4,'SANIC',0,6057.8571,2);
+[2015-06-28 01:12:09] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 01:12:09] **************************Realizando llamado a GetCharges para SASAL**************************
+[2015-06-28 01:12:09] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(7,2);: 2110.0000
+[2015-06-28 01:12:09] Cobros generados: 0
+[2015-06-28 01:12:09] Enviando a guardar informacion...........
+[2015-06-28 01:12:09] call SaveMonitorCharges(7,'SASAL',0,2110.0000,2);
+[2015-06-28 01:12:09] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 01:12:09] **************************Realizando llamado a GetCharges para SAPAN**************************
+[2015-06-28 01:12:10] Obteniendo Promedio de cobros call GetAVGChargesPerCarrier(6,2);: 0.0000
+[2015-06-28 01:12:10] Cobros generados: 0
+[2015-06-28 01:12:10] Enviando a guardar informacion...........
+[2015-06-28 01:12:10] call SaveMonitorCharges(6,'SAPAN',0,0.0000,2);
+[2015-06-28 01:12:10] **************************finalizacion de generacion de cobro**************************
+[2015-06-28 01:12:10]Procesos Finalizado..........

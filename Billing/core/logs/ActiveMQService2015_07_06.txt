@@ -1,0 +1,325 @@
+[2015-07-06 11:29:46] Inicio de servicio de actualizacion de BD
+[2015-07-06 11:29:46]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:29:46]Librerias a cargar: 
+[2015-07-06 11:29:46]/var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 11:29:46]/var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 11:29:46]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:29:46]Requerimiento de librerias....
+[2015-07-06 11:30:39] Inicio de servicio de actualizacion de BD
+[2015-07-06 11:30:39]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:30:39]Librerias a cargar: 
+[2015-07-06 11:30:39]/var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 11:30:39]/var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 11:30:39]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:30:39]Requerimiento de librerias....
+[2015-07-06 11:31:14] Inicio de servicio de actualizacion de BD
+[2015-07-06 11:31:14]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:31:14]Librerias a cargar: 
+[2015-07-06 11:31:14]/var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 11:31:14]/var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 11:31:14]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:31:14]Requerimiento de librerias....
+[2015-07-06 11:31:14]Cargando procesos...........
+[2015-07-06 11:31:33] Inicio de servicio de actualizacion de BD
+[2015-07-06 11:31:33]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:31:33]Librerias a cargar: 
+[2015-07-06 11:31:33]/var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 11:31:33]/var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 11:31:33]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:31:33]Requerimiento de librerias....
+[2015-07-06 11:31:33]Cargando procesos...........
+[2015-07-06 11:32:22] Inicio de servicio de actualizacion de BD
+[2015-07-06 11:32:22]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:32:22]Librerias a cargar: 
+[2015-07-06 11:32:22]/var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 11:32:22]/var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 11:32:22]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:32:22]Requerimiento de librerias....
+[2015-07-06 11:32:50] Inicio de servicio de actualizacion de BD
+[2015-07-06 11:32:50]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:32:50]Librerias a cargar: 
+[2015-07-06 11:32:50]/var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 11:32:50]/var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 11:32:50]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:32:50]Requerimiento de librerias....
+[2015-07-06 11:32:50]Cargando procesos...........
+[2015-07-06 11:32:50] Servicios a ejecutar: 2
+[2015-07-06 11:32:50]Iniciando Procesos..........
+[2015-07-06 11:32:50] **************************Realizando llamado a GetActiveMQData para koala02**************************
+[2015-07-06 11:32:50] Error loading XML
+
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] **************************finalizacion de generacion de Info**************************
+[2015-07-06 11:32:50] **************************Realizando llamado a GetActiveMQData para koala03**************************
+[2015-07-06 11:32:50] Error loading XML
+
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] 	
+[2015-07-06 11:32:50] **************************finalizacion de generacion de Info**************************
+[2015-07-06 11:32:50]Procesos Finalizado..........
+[2015-07-06 11:32:54] Inicio de servicio de actualizacion de BD
+[2015-07-06 11:32:54]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:32:54]Librerias a cargar: 
+[2015-07-06 11:32:54]/var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 11:32:54]/var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 11:32:54]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:32:54]Requerimiento de librerias....
+[2015-07-06 11:32:54]Cargando procesos...........
+[2015-07-06 11:32:54] Servicios a ejecutar: 2
+[2015-07-06 11:32:54]Iniciando Procesos..........
+[2015-07-06 11:32:54] **************************Realizando llamado a GetActiveMQData para koala02**************************
+[2015-07-06 11:32:54] Error loading XML
+
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] **************************finalizacion de generacion de Info**************************
+[2015-07-06 11:32:54] **************************Realizando llamado a GetActiveMQData para koala03**************************
+[2015-07-06 11:32:54] Error loading XML
+
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] 	
+[2015-07-06 11:32:54] **************************finalizacion de generacion de Info**************************
+[2015-07-06 11:32:54]Procesos Finalizado..........
+[2015-07-06 11:34:02] Inicio de servicio de actualizacion de BD
+[2015-07-06 11:34:02]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:34:02]Librerias a cargar: 
+[2015-07-06 11:34:02]/var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 11:34:02]/var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 11:34:02]Parametrizacion de rutas y valores....
+
+[2015-07-06 11:34:02]Requerimiento de librerias....
+[2015-07-06 11:34:02]Cargando procesos...........
+[2015-07-06 11:34:02] Servicios a ejecutar: 2
+[2015-07-06 11:34:02]Iniciando Procesos..........
+[2015-07-06 11:34:02] **************************Realizando llamado a GetActiveMQData para koala02**************************
+[2015-07-06 11:34:02] Error loading XML
+
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] **************************finalizacion de generacion de Info**************************
+[2015-07-06 11:34:02] **************************Realizando llamado a GetActiveMQData para koala03**************************
+[2015-07-06 11:34:02] Error loading XML
+
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] 	
+[2015-07-06 11:34:02] **************************finalizacion de generacion de Info**************************
+[2015-07-06 11:34:02]Procesos Finalizado..........
+[2015-07-06 12:06:17] Inicio de servicio de actualizacion de BD
+[2015-07-06 12:06:17] Parametrizacion de rutas y valores....
+
+[2015-07-06 12:06:17] Librerias a cargar: 
+[2015-07-06 12:06:17] /var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 12:06:17] /var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 12:06:17] Parametrizacion de rutas y valores....
+
+[2015-07-06 12:06:17]Requerimiento de librerias....
+[2015-07-06 12:06:17] Cargando procesos...........
+[2015-07-06 12:06:17] Servicios a ejecutar: 1
+[2015-07-06 12:06:17] Iniciando Procesos..........
+[2015-07-06 12:06:17] **************************Realizando llamado a GetActiveMQData para koala02**************************
+[2015-07-06 12:06:17] **************************finalizacion de generacion de Info**************************
+[2015-07-06 12:06:17] Procesos Finalizado..........
+[2015-07-06 12:45:45] Inicio de servicio de actualizacion de BD
+[2015-07-06 12:45:45] Parametrizacion de rutas y valores....
+
+[2015-07-06 12:45:45] Librerias a cargar: 
+[2015-07-06 12:45:45] /var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 12:45:45] /var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 12:45:45] Parametrizacion de rutas y valores....
+
+[2015-07-06 12:45:45]Requerimiento de librerias....
+[2015-07-06 12:45:45] Cargando procesos...........
+[2015-07-06 12:45:45] Servicios a ejecutar: 4
+[2015-07-06 12:45:45] Iniciando Procesos..........
+[2015-07-06 12:45:45] **************************Realizando llamado a GetActiveMQData para koala02**************************
+[2015-07-06 12:45:46] **************************finalizacion de generacion de Info**************************
+[2015-07-06 12:45:46] **************************Realizando llamado a GetActiveMQData para koala03**************************
+[2015-07-06 12:45:46] **************************finalizacion de generacion de Info**************************
+[2015-07-06 12:45:46] **************************Realizando llamado a GetActiveMQData para koala01**************************
+[2015-07-06 12:45:47] **************************finalizacion de generacion de Info**************************
+[2015-07-06 12:45:47] **************************Realizando llamado a GetActiveMQData para Miami**************************
+[2015-07-06 12:45:47] name: mx.movistar.tx
+size: 25609
+consumerCount: 5
+enqueueCount: 6211674
+dequeueCount: No Data
+
+[2015-07-06 12:45:47] name: test.mx.tx
+size: 4
+consumerCount: 0
+enqueueCount: 4
+dequeueCount: No Data
+
+[2015-07-06 12:45:47] **************************finalizacion de generacion de Info**************************
+[2015-07-06 12:45:47] Procesos Finalizado..........
+[2015-07-06 12:46:39] Inicio de servicio de actualizacion de BD
+[2015-07-06 12:46:39] Parametrizacion de rutas y valores....
+
+[2015-07-06 12:46:39] Librerias a cargar: 
+[2015-07-06 12:46:39] /var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 12:46:39] /var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 12:46:39] Parametrizacion de rutas y valores....
+
+[2015-07-06 12:46:39]Requerimiento de librerias....
+[2015-07-06 12:46:39] Cargando procesos...........
+[2015-07-06 12:46:39] Servicios a ejecutar: 4
+[2015-07-06 12:46:39] Iniciando Procesos..........
+[2015-07-06 12:46:39] **************************Realizando llamado a GetActiveMQData para koala02**************************
+[2015-07-06 12:46:39] **************************finalizacion de generacion de Info**************************
+[2015-07-06 12:46:39] **************************Realizando llamado a GetActiveMQData para koala03**************************
+[2015-07-06 12:46:39] **************************finalizacion de generacion de Info**************************
+[2015-07-06 12:46:39] **************************Realizando llamado a GetActiveMQData para koala01**************************
+[2015-07-06 12:46:40] **************************finalizacion de generacion de Info**************************
+[2015-07-06 12:46:40] **************************Realizando llamado a GetActiveMQData para Miami**************************
+[2015-07-06 12:46:40] name: mx.movistar.tx
+size: 25300
+consumerCount: 5
+enqueueCount: 6216659
+dequeueCount: No Data
+
+[2015-07-06 12:46:40] name: test.mx.tx
+size: 4
+consumerCount: 0
+enqueueCount: 4
+dequeueCount: No Data
+
+[2015-07-06 12:46:40] **************************finalizacion de generacion de Info**************************
+[2015-07-06 12:46:40] Procesos Finalizado..........
+[2015-07-06 14:33:03] Inicio de servicio de actualizacion de BD
+[2015-07-06 14:33:03] Parametrizacion de rutas y valores....
+
+[2015-07-06 14:33:03] Librerias a cargar: 
+[2015-07-06 14:33:03] /var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 14:33:03] /var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 14:33:03] Parametrizacion de rutas y valores....
+
+[2015-07-06 14:33:03]Requerimiento de librerias....
+[2015-07-06 14:33:03] Cargando procesos...........
+[2015-07-06 14:33:03] Servicios a ejecutar: 4
+[2015-07-06 14:33:03] Iniciando Procesos..........
+[2015-07-06 14:33:03] **************************Realizando llamado a GetActiveMQData para koala02**************************
+[2015-07-06 14:33:03] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:33:03] **************************Realizando llamado a GetActiveMQData para koala03**************************
+[2015-07-06 14:33:03] name: ni.movistar.tx
+size: 43294
+consumerCount: 5
+enqueueCount: 19174720
+dequeueCount: No Data
+
+[2015-07-06 14:33:03] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:33:03] **************************Realizando llamado a GetActiveMQData para koala01**************************
+[2015-07-06 14:33:04] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:33:04] **************************Realizando llamado a GetActiveMQData para Miami**************************
+[2015-07-06 14:33:04] name: test.mx.tx
+size: 4
+consumerCount: 0
+enqueueCount: 4
+dequeueCount: No Data
+
+[2015-07-06 14:33:04] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:33:04] Procesos Finalizado..........
+[2015-07-06 14:44:51] Inicio de servicio de actualizacion de BD
+[2015-07-06 14:44:51] Parametrizacion de rutas y valores....
+
+[2015-07-06 14:44:51] Librerias a cargar: 
+[2015-07-06 14:44:51] /var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 14:44:51] /var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 14:44:51] Parametrizacion de rutas y valores....
+
+[2015-07-06 14:44:51]Requerimiento de librerias....
+[2015-07-06 14:44:51] Cargando procesos...........
+[2015-07-06 14:44:51] Servicios a ejecutar: 4
+[2015-07-06 14:44:51] Iniciando Procesos..........
+[2015-07-06 14:44:51] **************************Realizando llamado a GetActiveMQData para koala02**************************
+[2015-07-06 14:44:51] name: pe.movistar.tx
+size: 3
+consumerCount: 3
+enqueueCount: 1995262
+dequeueCount: No Data
+
+[2015-07-06 14:44:51] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:44:51] **************************Realizando llamado a GetActiveMQData para koala03**************************
+[2015-07-06 14:44:51] name: ni.movistar.tx
+size: 373
+consumerCount: 5
+enqueueCount: 19174720
+dequeueCount: No Data
+
+[2015-07-06 14:44:51] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:44:51] **************************Realizando llamado a GetActiveMQData para koala01**************************
+[2015-07-06 14:44:52] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:44:52] **************************Realizando llamado a GetActiveMQData para Miami**************************
+[2015-07-06 14:44:52] name: test.mx.tx
+size: 4
+consumerCount: 0
+enqueueCount: 4
+dequeueCount: No Data
+
+[2015-07-06 14:44:52] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:44:52] Procesos Finalizado..........
+[2015-07-06 14:57:02] Inicio de servicio de actualizacion de BD
+[2015-07-06 14:57:02] Parametrizacion de rutas y valores....
+
+[2015-07-06 14:57:02] Librerias a cargar: 
+[2015-07-06 14:57:02] /var/www/Billing/core/lib/MySQL.php 
+[2015-07-06 14:57:02] /var/www/Billing/core/lib/ActiveMQ.php 
+[2015-07-06 14:57:02] Parametrizacion de rutas y valores....
+
+[2015-07-06 14:57:02]Requerimiento de librerias....
+[2015-07-06 14:57:02] Cargando procesos...........
+[2015-07-06 14:57:02] Servicios a ejecutar: 4
+[2015-07-06 14:57:02] Iniciando Procesos..........
+[2015-07-06 14:57:02] **************************Realizando llamado a GetActiveMQData para koala02**************************
+[2015-07-06 14:57:02] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:57:02] **************************Realizando llamado a GetActiveMQData para koala03**************************
+[2015-07-06 14:57:02] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:57:02] **************************Realizando llamado a GetActiveMQData para koala01**************************
+[2015-07-06 14:57:03] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:57:03] **************************Realizando llamado a GetActiveMQData para Miami**************************
+[2015-07-06 14:57:03] name: test.mx.tx
+[2015-07-06 14:57:03] size: test.mx.tx
+[2015-07-06 14:57:03] consumerCount: test.mx.tx
+[2015-07-06 14:57:03] enqueueCount: test.mx.tx
+[2015-07-06 14:57:03] dequeueCount: test.mx.tx
+[2015-07-06 14:57:03] **************************finalizacion de generacion de Info**************************
+[2015-07-06 14:57:03] Procesos Finalizado..........
